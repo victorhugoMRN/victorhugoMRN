@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ![](https://media1.tenor.com/m/CXFy5JDILo4AAAAC/lebron-james-sunshine.gif)
-![](https://media1.tenor.com/m/Qgt6ooaeZT8AAAAC/lol-funny.gif)
 
 <!--
 **victorhugoMRN/victorhugoMRN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
