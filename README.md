@@ -1,12 +1,11 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
 
-Meu nome é Victor Hugo Maran
+<p>Meu nome é Victor Hugo Maran</p>
 
-## Cursos
+<h2>Cursos</h2>
 <ul>
-  <li>
-    OneBitCode: Full-Stack JavaScript
-  </li>
+  <li>OneBitCode: Full-Stack JavaScript</li>
+  <li>Prepara Cursos: Desenvolvimento de software</li>
 </ul>
 
 <!--
